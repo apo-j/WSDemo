@@ -1,0 +1,9 @@
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\bin\Debug\WService.exe.config
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\bin\Debug\WService.exe
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\bin\Debug\WService.pdb
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.csprojResolveAssemblyReference.cache
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.ProjectInstaller.resources
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.Service1.resources
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.csproj.GenerateResource.Cache
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.exe
+c:\users\jyang\documents\visual studio 2015\Projects\WSDemo\WService\obj\Debug\WService.pdb
